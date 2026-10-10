@@ -17,6 +17,6 @@ O modelo foi desnormalizado a partir do diagrama relacional original, resultando
 ## 🛠️ Tecnologias Utilizadas
 *   **Power BI:** ETL (Power Query), modelagem de dados e construção do painel visual.
 *   **Modelagem Dimensional:** Conceitos Kimball (Tabelas Fato, Dimensões e Surrogate Keys).
-*   
+  
 ## 👨‍💻 Autor
 Desenvolvido por Gabriela Pereira das Neves no âmbito da jornada de transição e especialização em Dados e Tecnologia.
