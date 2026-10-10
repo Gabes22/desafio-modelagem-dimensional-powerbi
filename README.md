@@ -17,6 +17,14 @@ O modelo foi desnormalizado a partir do diagrama relacional original, resultando
 ## 🛠️ Tecnologias Utilizadas
 *   **Power BI:** ETL (Power Query), modelagem de dados e construção do painel visual.
 *   **Modelagem Dimensional:** Conceitos Kimball (Tabelas Fato, Dimensões e Surrogate Keys).
-  
+
+##   📸 Pré-visualização do Relatório
+
+### Página 1: Modelo Relacional Dimensional em Estrela (Star Schema)
+![Modelo Relacional Dimensional em Estrela (Star Schema)](imagem/imag1.png)
+
+### Página 2: Dashboard / Relatório Visual
+![Dashboard / Relatório Visual](imagem/imag2.png)
+
 ## 👨‍💻 Autor
 Desenvolvido por Gabriela Pereira das Neves no âmbito da jornada de transição e especialização em Dados e Tecnologia.
